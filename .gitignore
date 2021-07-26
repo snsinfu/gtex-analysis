@@ -1,0 +1,9 @@
+.*
+_*
+!.gitignore
+
+*.gz
+*.h5
+*.o
+
+src/gct_to_hdf5/main
